@@ -2,7 +2,7 @@
 
 A simple and responsive personal portfolio website built using HTML, CSS, and JavaScript. This website showcases my profile, technical skills, projects, internship experience, certifications, and contact information.
 
-#Live Demo
+Live Demo
 https://vynavipotnuru.github.io/Portfolio/
 
 ## 🛠️ Technologies & Tools Used
